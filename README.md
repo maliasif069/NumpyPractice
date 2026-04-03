@@ -1,3 +1,3 @@
 i have just started Numpy and
-this code is my practice of numpy from begiinig to advance
+this code is my practice of numpy from beginning to advance
 
